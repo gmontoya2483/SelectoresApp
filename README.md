@@ -9,8 +9,6 @@ Esta aplicacion consuma API [REST COUNTRIES](https://restcountries.eu/)
 
 ## Temas Cubiertos en esta aplicación:
 
-### Formularios por Template
-
 * Modularización de la aplicación
 * Boostrap 5 - [getbootstrap](https://getbootstrap.com/)
 * Estructura de la aplicación de media a gran escala
