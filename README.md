@@ -22,15 +22,6 @@ Esta aplicacion consuma API [REST COUNTRIES](https://restcountries.eu/)
 ## Development server
 Ejecutar`ng serve` para el servidor de desarrollo. Navegar a  `http://localhost:4200/`. La aplicación será automaticamente recargada si se realizan cambios en el código fuente.
 
-# Backend Server
-Para simular el servidor backend se utiliza el paquete [JSON Server](https://www.npmjs.com/package/json-server).
-
-Para instalar el **JSON server** se debe ejecutar el siguiente comando:
-```text
-npm install -g json-server
-```
-
-
 
 ## Application en producción
 [SelectoresApp](https://selectoresapp.netlify.app/)
